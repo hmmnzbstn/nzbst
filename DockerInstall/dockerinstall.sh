@@ -1,4 +1,6 @@
 #!/bin/sh
+yum update
+yum -y install wget
 cd ~
 mkdir dockerinstall
 cd dockerinstall
