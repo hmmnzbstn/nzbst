@@ -9,4 +9,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/hmmnzbstn/nzbst
 ```
 
 1.安装Docker脚本.
-...
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/hmmnzbstn/nzbst/master/DockerInstall/dockerinstall.sh && chmod +x dockerinstall.sh && bash dockerinstall.sh
+```
